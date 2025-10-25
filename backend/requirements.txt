@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+langchain
+chromadb
+langchain-google-genai
+python-multipart
